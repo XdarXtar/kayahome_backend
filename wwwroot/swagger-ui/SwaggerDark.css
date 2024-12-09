@@ -31,3 +31,29 @@ span {
     color: rgb(199,199,204) !important;
     background-color: rgb(72,72,74,0.5) !important;
 }
+
+.opblock-post .opblock-summary-post .opblock-summary-control .arrow {
+    fill: green !important;
+}
+
+.opblock-get .opblock-summary-get .opblock-summary-control .arrow {
+    fill: cornflowerblue !important;
+}
+
+.opblock-tag .expand-operation .arrow {
+    fill: ghostwhite !important;
+}
+
+.swagger-ui section.models h4 svg {
+    fill: ghostwhite !important;
+}
+
+.model-toggle.collapsed {
+    background: ghostwhite !important;
+    border-radius: 50%;
+}
+
+.swagger-ui .model-toggle::after {
+    background: ghostwhite !important;
+    border-radius: 50%;
+}
